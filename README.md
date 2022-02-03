@@ -1,2 +1,2 @@
-# Galiyev19.github.io
+# Galiyev19_DSI.github.io
 EXAM PROJECT
